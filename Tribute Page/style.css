@@ -1,0 +1,59 @@
+/* Core style */
+
+body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #333;
+    font-size: 1.1em;
+    line-height: 1.5em;
+    text-align: center;
+    color: #fff;
+
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+h1,h2,h3 {
+    margin: 0;
+    padding: 1em 0;
+}
+
+p {
+    margin: 0;
+    padding: 1em 0;
+}
+
+
+/* Header CSS for tribute page */
+#tribute-header {
+    min-height: 450px;
+}
+
+#tribute-header .bg-image {
+    position: absolute;
+    background: url();
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.4;
+}
+
+#tribute-header h1 {
+    padding-top: 100px;
+    padding-bottom: 0;
+
+}
+
+#tribute-page .content-wrape {
+    padding: 0 1.5em;
+}
+
+/* section A CSS */
+https://www.youtube.com/watch?v=M3qBpPw77qo 29:26
